@@ -3,7 +3,7 @@ name: Epic - ZenHub
 about: Use this template to streamline information you track about large projects
   and user stories.
 title: "[EPIC] <title>"
-labels: ''
+labels: Epic
 assignees: ''
 
 ---

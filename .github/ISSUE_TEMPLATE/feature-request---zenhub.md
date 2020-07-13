@@ -2,7 +2,7 @@
 name: Feature request - ZenHub
 about: Suggest an idea for this project
 title: "[FEATURE] <title>"
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---

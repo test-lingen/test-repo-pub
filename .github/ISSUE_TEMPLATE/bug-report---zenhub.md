@@ -2,7 +2,7 @@
 name: Bug report - ZenHub
 about: Create a report to help us improve
 title: "[BUG] <title>"
-labels: ''
+labels: bug
 assignees: ''
 
 ---
