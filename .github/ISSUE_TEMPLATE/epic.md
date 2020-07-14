@@ -1,7 +1,7 @@
 ---
-name: Epic - ZenHub
-about: Use this template to streamline information you track about large projects
-  and user stories.
+name: Epic
+about: Extends over more than one version and can be broken down into smaller user
+  stories.
 title: "[EPIC] <title>"
 labels: ''
 assignees: ''
